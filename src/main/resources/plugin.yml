@@ -1,0 +1,10 @@
+name: Mineflare_Groups
+version: @version@
+main: me.pljr.mineflare_groups.Mineflare_Groups
+api-version: 1.16
+depend: [PLJRApi-Spigot]
+authors: [ 9hx ]
+description: Simple plugin for creating useless groups.
+commands:
+  group:
+    description: Main Command
